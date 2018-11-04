@@ -1,0 +1,2 @@
+#! /bin/sh
+./br savedefconfig BR2_DEFCONFIG=../buildroot-custom/configs/board1_defconfig
