@@ -1,0 +1,4 @@
+config BR2_PACKAGE_HELLO_MODULE
+	bool "hello kernel module"
+	depends on BR2_LINUX_KERNEL
+

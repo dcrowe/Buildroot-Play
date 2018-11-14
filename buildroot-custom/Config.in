@@ -1,0 +1,1 @@
+source "$BR2_EXTERNAL_FLAPPY_PATH/package/hello_module/Config.in"

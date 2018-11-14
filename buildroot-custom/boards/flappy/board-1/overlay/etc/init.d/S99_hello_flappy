@@ -5,6 +5,7 @@
 
 start() {
 	hello-flappy
+	insmod /lib/modules/4.13.3/extra/hello.ko
 }
 
 stop() {
